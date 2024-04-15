@@ -44,6 +44,10 @@ body {
     text-align: right;
 }
 
+.fa-search {
+    padding-top: 3px;
+}
+
 .search-input input {
     width: 90%;
     height: 1.5rem;
@@ -54,6 +58,10 @@ body {
 
 .bell-icon {
     text-align: right;
+}
+
+.fa-bell {
+    padding-top: 3px;
 }
 
 .user {
