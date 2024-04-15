@@ -23,8 +23,16 @@ body {
     margin-bottom: 50px;
 }
 
+.fa-css3 {
+    font-size: larger;
+}
+
 .sidebar h3 {
     margin: 20px 10px;
+}
+
+.fas {
+    width: 40px;
 }
 
 .searchbar {
@@ -64,7 +72,7 @@ body {
     padding-top: 3px;
 }
 
-.user {
+.user-icon {
     text-align: center;
 }
 
