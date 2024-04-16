@@ -138,37 +138,40 @@ body {
 
 .card {
     background-color: white;
-    border-radius: 15px;
-    border-left: orange 10px solid;
+    border-radius: 10px;
+    border-left: rgb(255, 194, 41) 10px solid;
     padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
 
 .rightTop {
     grid-column: 3 / 4;
     grid-row: 3 / 4;
     background-color: #e2e8f0;
-    padding: 30px 20px;
+    padding: 30px 20px 30px 10px;
 }
 
 .announcements {
     margin-top: 10px;
     background-color: white;
-    border-radius: 15px;
+    border-radius: 10px;
     padding: 20px;
     height: 80%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
 
 .rightBot {
     grid-column: 3 / 4;
     grid-row: 4 / 5;
     background-color: #e2e8f0;
-    padding: 30px 20px;
+    padding: 20px 20px 20px 10px;
 }
 
 .trending {
     margin-top: 10px;
     background-color: white;
-    border-radius: 15px;
+    border-radius: 10px;
     padding: 20px;
     height: 75%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
