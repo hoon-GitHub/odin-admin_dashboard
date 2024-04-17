@@ -137,6 +137,7 @@ body {
 }
 
 .card {
+    height: 18vh;
     background-color: white;
     border-radius: 10px;
     border-left: rgb(255, 194, 41) 10px solid;
@@ -149,6 +150,7 @@ body {
 
 .card div {
     text-align: right;
+    padding-right: 10px;
 }
 
 .card p {
