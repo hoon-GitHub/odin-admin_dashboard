@@ -77,13 +77,13 @@ body {
     padding-top: 3px;
 }
 
-.user-icon {
-    text-align: center;
+.searchbar img {
+    justify-self: center;
 }
 
 .user-name {
     font-weight: bold;
-    font-size: small;
+    font-size: 90%;
 }
 
 .nav {
@@ -145,7 +145,7 @@ body {
     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
     font-size: 80%;
     display: grid;
-    grid-template-rows: 20% auto 20%;
+    grid-template-rows: 15% auto 15%;
 }
 
 .card div {
@@ -201,7 +201,7 @@ hr.solid {
     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
     display: grid;
     grid-template-columns: 25% auto;
-    gap: 10px;
+    gap: 15px;
     align-items: center;
     font-size: 60%;
 }
